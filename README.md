@@ -1,1 +1,1 @@
-# weatheR.github.io
+# weather.github.io
